@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Tshepo Tau
-
 I'm a passionate **Cloud Engineer** and **DevOps enthusiast** with a background in civil engineering, now building modern infrastructure with **AWS**, **Terraform**, and **Kubernetes**. I specialize in building scalable cloud-native solutions and enjoy creating interactive developer tools like my VS Code-style portfolio.
 
 ---
