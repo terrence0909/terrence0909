@@ -20,7 +20,7 @@ A full-stack platform connecting local artists with collectors through real-time
 - Infrastructure as Code using Terraform
 - Full end-to-end type safety with TypeScript
 
-🔗 [View Project](https://github.com/terrence0909/Art-Burst) | 🌐 [Live Demo](https://artburst.example.com)
+🔗 [View Project](https://github.com/terrence0909/Art-Burst) | 🌐 [Live Demo](https://terrence0909.github.io/art-burst)
 
 ---
 
